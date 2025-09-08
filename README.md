@@ -22,3 +22,8 @@ A movie search and discovery application built with **React + Vite** using the [
    ```bash
    git clone https://github.com/YOUR-USERNAME/react-movie-app.git
    cd react-movie-app
+2.Install dependencies:
+  npm install
+3.Add your TMDB API key in services/api.js.
+4.Run the project:
+  npm run dev
